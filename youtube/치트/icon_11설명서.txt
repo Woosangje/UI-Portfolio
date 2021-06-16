@@ -1,0 +1,55 @@
+1.Neuroleadership articles enhansen 구글검색후 거울이미지 저장
+2.거울 유리 제거하고
+3.타원 레이어만들고
+4.거울 레이어를 타원에 맞춘다.
+5.타원은 붉은색으로 거울은 어두운 황금색으로 ctrl u한다.
+6.거울을 Emboss를
+Technique는 Chisel Hard
+Depth 144%
+size:18px
+soften:0px
+
+Anagle : 120' 30'
+Heightlight Mode : Overlay white
+Opacity : 47% 
+Shadow Mode : Multiply black
+Opacity : 75%
+로 설정한다.
+
+7. 타원은 
+레이어 스타일을 Inner Shadow
+Blend Mode : Multiply black
+Opacity : 75
+Angle 90'
+Distance : 1px
+choke : 47%
+size : 21px 
+로 설정 한다.
+
+8. 거울의 
+Hue/Saturation의 Saturation을 -100으로 설정하여
+은색으로 만들고
+dodge tool과 Burn tool로 명암을 적당히 다듬는다.
+
+9. 타원의 layer style의
+Gradient Overlay 붉은색으로 입채감을 준다. 초크? 는 3개사용 
+style:Redial
+Angle :90
+
+10.레이어를 새로 만들고 타원의테두리를 Marquee로 만들고 상단 filter->render->
+clouds를 생성하고
+상단 Filter-> smart convert filter로 오브젝트화하고
+filter->filter gallery에서 
+파일 Distort->Ocean Ripple
+우현 설정
+Ripple Size 13
+Ripple Magntude 5로 하고 ok버튼 누른다.
+
+11.구름레이어는 레이어타입을 overlay로 변경하고 Opacity는 정당히 조절한다.
+
+12. 거울 안쪽을 w로 Marquee하고 하얀레이어 생성후 Constract로 1px 줄인다음
+잘라서 테두리만 남기고 어두은 색으로 변경한다.
+그리고 overlay로 만들고 적당히 투명도를 조절한다. 23%
+
+13. 레이어 하나만들고 light를 만들고 타원위에다가 배치하자
+sherpen tool(왼쪽 삼각형)로 거울을  오래된것처럼 다듬자

@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=2XrFRQ_2yyw
+1.레이어 ctrl + A로 테두리
+2.필터갤러리 스프라이트
+3.약간 깔끔하지 않은 상태로 새레이어
+->
+4.엠보싱
+빛과 일치하게 shading 앵글 조절
+
+5.Drop shadow도 갈색 중간색으로 설정
+
+6.가우시안블러 1~ 아주조금설정
+
+7.질감 레이어 스타일에서 엠보스아래 Texture로 설정
