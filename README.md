@@ -8,3 +8,4 @@ https://www.youtube.com/watch?v=zwzjZSI2Xhk
 https://blog.naver.com/kumoyoung/220292752725
 <br>
 https://www.pinterest.co.kr/pin/540643130249530968/ 원기둥 자료 인체 여자남자 완성해오기
+5,10 20분크로키 해오기 원기둥 확인
