@@ -5,10 +5,4 @@ https://www.youtube.com/watch?v=zwzjZSI2Xhk
 
 작업 시작전 한번씩 읽어보기 
 쓰는 기능만 반복사용하지 않도록
-https://blog.naver.com/kumoyoung/220292752725
 <br>
-https://www.pinterest.co.kr/pin/540643130249530968/ 원기둥 자료 인체 여자남자 완성해오기
-5,10 20분크로키 해오기 원기둥 확인
-디스코드 단톡반 초대코드 2주
-금속 채색법 설명할수있게 알기
-드로잉하는거 동영상으로 찍어오기
