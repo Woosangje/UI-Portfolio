@@ -9,3 +9,7 @@
 ![ss](https://user-images.githubusercontent.com/57715672/139247374-4bd3c8e0-8609-4f17-af6d-50efff951db3.png)
 ![보석1](https://user-images.githubusercontent.com/57715672/139247392-71976be2-4286-4870-8373-e12672a63dd8.png)
 ![보석2](https://user-images.githubusercontent.com/57715672/139247407-2ad26105-e31c-4afc-8e4b-641b36bee908.png)
+
+메인 psd리스트 주소
+https://github.com/Woosangje/UI-Portfolio/tree/main/ui%EB%A6%AC%EB%94%94%EC%9E%90%EC%9D%B8/%ED%8D%BC%EC%A6%90%EA%B2%8C%EC%9E%84
+https://github.com/Woosangje/UI-Portfolio/tree/main/%EA%B7%B8%EB%9E%9C%EB%93%9C%EC%B2%B4%EC%9D%B4%EC%8A%A4%EB%AA%A8%EC%9E%91/%EB%AA%A8%EC%9E%91
