@@ -1,11 +1,15 @@
-![포폴1](https://user-images.githubusercontent.com/57715672/135895097-0018adf5-4ce2-4ae6-872b-d23523cf6306.png)
-![포폴2](https://user-images.githubusercontent.com/57715672/135879718-877a8dd0-d697-4994-bd92-05a326942bd4.png)
-![포폴3](https://user-images.githubusercontent.com/57715672/135879725-3ec65891-a511-43d0-9d13-28fed493d862.png)
-![포폴4](https://user-images.githubusercontent.com/57715672/135879752-8203cfa7-9bd7-4140-ae91-75fa3c7094ad.png)
-![포폴](https://user-images.githubusercontent.com/57715672/135879761-bdc35acb-a0db-461e-bd18-c9441405c9de.png)
-![포폴5](https://user-images.githubusercontent.com/57715672/135879765-8025d33d-e8fc-49e5-8ec4-dfdb847f307b.png)
-![포폴6](https://user-images.githubusercontent.com/57715672/135879770-d58e54dc-8d2e-4051-ada5-38e2b63455c7.png)
-![포폴7](https://user-images.githubusercontent.com/57715672/135879778-d9120fe5-0304-40d2-bcbe-a7bb0bdeadc0.png)
 
-수정,추가 중입니다.
 
+![포폴1](https://user-images.githubusercontent.com/57715672/139247081-79863c31-47b0-45d2-8b3b-d9160884120c.png)
+![포폴3](https://user-images.githubusercontent.com/57715672/139247114-83bc31a1-7e4d-48af-ab48-f7ba15d77e88.png)
+![포폴8](https://user-images.githubusercontent.com/57715672/139247147-58a9a305-8e9a-45b4-b404-5d8c1a6d03f7.png)
+![포폴9](https://user-images.githubusercontent.com/57715672/139247153-4959f4c4-38d3-46d5-8443-a61b84a5ca7e.png)
+![포폴](https://user-images.githubusercontent.com/57715672/139247175-7d09ebc4-5404-469e-b625-4dba7eb61851.png)
+![포폴4](https://user-images.githubusercontent.com/57715672/139247183-bccb71a2-ad21-4dc8-b053-8bc173b20e2b.png)
+![ss](https://user-images.githubusercontent.com/57715672/139247374-4bd3c8e0-8609-4f17-af6d-50efff951db3.png)
+![보석1](https://user-images.githubusercontent.com/57715672/139247392-71976be2-4286-4870-8373-e12672a63dd8.png)
+![보석2](https://user-images.githubusercontent.com/57715672/139247407-2ad26105-e31c-4afc-8e4b-641b36bee908.png)
+
+메인 psd리스트 주소
+https://github.com/Woosangje/UI-Portfolio/tree/main/ui%EB%A6%AC%EB%94%94%EC%9E%90%EC%9D%B8/%ED%8D%BC%EC%A6%90%EA%B2%8C%EC%9E%84
+https://github.com/Woosangje/UI-Portfolio/tree/main/%EA%B7%B8%EB%9E%9C%EB%93%9C%EC%B2%B4%EC%9D%B4%EC%8A%A4%EB%AA%A8%EC%9E%91/%EB%AA%A8%EC%9E%91
