@@ -10,3 +10,4 @@
 ![보석1](https://user-images.githubusercontent.com/57715672/139247392-71976be2-4286-4870-8373-e12672a63dd8.png)
 ![보석2](https://user-images.githubusercontent.com/57715672/139247407-2ad26105-e31c-4afc-8e4b-641b36bee908.png)
 ![포폴10](https://user-images.githubusercontent.com/57715672/158306385-3b064255-9c24-4b0b-ab5e-ba17792c83de.png)
+![아터리기어](https://user-images.githubusercontent.com/57715672/177118522-1e64f208-3bdb-4b42-b5c7-44c7713d49fc.png)
