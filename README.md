@@ -29,3 +29,4 @@
 ![인체완성3 png](https://user-images.githubusercontent.com/57715672/189698408-0c99d187-f999-4dc7-bc5a-45cbce4717b3.jpg)
 ![인체완성4 png](https://user-images.githubusercontent.com/57715672/189698414-26666c85-21b0-410e-be23-ef38a0df3e54.jpg)
 ![인체완성5 png](https://user-images.githubusercontent.com/57715672/189698421-1c55e157-6988-4013-8e71-8b119e2cd468.jpg)
+![인체그리기](https://user-images.githubusercontent.com/57715672/189699665-4d080163-87cf-4947-ab27-fa8f147926de.jpg)
