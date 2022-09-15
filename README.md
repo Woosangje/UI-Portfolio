@@ -12,10 +12,7 @@
 ![아터리기어](https://user-images.githubusercontent.com/57715672/177118522-1e64f208-3bdb-4b42-b5c7-44c7713d49fc.png)
 ![아터리기어2](https://user-images.githubusercontent.com/57715672/177567325-e11ce912-4e1e-403e-af94-a207519e7a89.png)
 
-![1](https://user-images.githubusercontent.com/57715672/188870359-c94f861b-f5e5-4710-8339-1c0cd4b78465.jpg)
-![1](https://user-images.githubusercontent.com/57715672/188870379-bd555d99-86ff-4f13-8b00-059e10e51696.png)
-![2](https://user-images.githubusercontent.com/57715672/188870391-2abb310b-e6b4-4f97-a4aa-7c96673ce74a.png)
-![3](https://user-images.githubusercontent.com/57715672/188870402-03c69106-e0f3-4725-b817-af0e6745e088.png)
+![미소녀](https://user-images.githubusercontent.com/57715672/190405898-bd2a8370-5ffe-4903-858f-64e50d955a6f.jpg)
 ![미소녀 2](https://user-images.githubusercontent.com/57715672/189696496-67bdb6ea-2ef8-4654-b4ed-63e80fe82032.png)
 ![미소녀1](https://user-images.githubusercontent.com/57715672/189696529-ca1ffd6f-0c0d-46fb-acad-41990666e4c0.png)
 ![미소녀3](https://user-images.githubusercontent.com/57715672/189696565-2148c0e5-cb76-46ca-97b3-95e538789f0b.png)
