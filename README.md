@@ -1,6 +1,3 @@
-![아터리기어](https://user-images.githubusercontent.com/57715672/177118522-1e64f208-3bdb-4b42-b5c7-44c7713d49fc.png)
-![아터리기어2](https://user-images.githubusercontent.com/57715672/177567325-e11ce912-4e1e-403e-af94-a207519e7a89.png)
-
 ![미소녀f1](https://user-images.githubusercontent.com/57715672/190572223-b85fbfb5-2022-4dfa-a66e-3d2e48fdc26b.jpg)
 ![미소녀f2](https://user-images.githubusercontent.com/57715672/190572414-37ae7691-ac20-47cc-b490-d2b11c32bb20.jpg)
 ![인체완성1](https://user-images.githubusercontent.com/57715672/189698377-07f59db4-4bde-4a23-ba0a-f0db667184aa.jpg)
