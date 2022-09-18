@@ -1,3 +1,7 @@
+![애니메![애니메이션-데생](https://user-images.githubusercontent.com/57715672/190913211-31493870-64ed-4032-b7d7-72715204385a.gif)
+![애니메이션-형태](https://user-images.githubusercontent.com/57715672/190913224-a7d08b1c-f20d-4cbf-8fca-2342db2db268.gif)
+![동화](https://user-images.githubusercontent.com/57715672/190913326-51c98ceb-0336-478f-8802-919abba4e5c5.jpg)
+
 ![미소녀f1](https://user-images.githubusercontent.com/57715672/190572223-b85fbfb5-2022-4dfa-a66e-3d2e48fdc26b.jpg)
 ![미소녀f2](https://user-images.githubusercontent.com/57715672/190572414-37ae7691-ac20-47cc-b490-d2b11c32bb20.jpg)
 ![인체완성1](https://user-images.githubusercontent.com/57715672/189698377-07f59db4-4bde-4a23-ba0a-f0db667184aa.jpg)
