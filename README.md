@@ -1,4 +1,4 @@
-![애니메![애니메이션-데생](https://user-images.githubusercontent.com/57715672/190913211-31493870-64ed-4032-b7d7-72715204385a.gif)
+![애니메이션-데생](https://user-images.githubusercontent.com/57715672/190913211-31493870-64ed-4032-b7d7-72715204385a.gif)
 ![애니메이션-형태](https://user-images.githubusercontent.com/57715672/190913224-a7d08b1c-f20d-4cbf-8fca-2342db2db268.gif)
 ![동화](https://user-images.githubusercontent.com/57715672/190913326-51c98ceb-0336-478f-8802-919abba4e5c5.jpg)
 
