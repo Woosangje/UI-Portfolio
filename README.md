@@ -2,6 +2,8 @@
 ![애니메이션-형태](https://user-images.githubusercontent.com/57715672/190913224-a7d08b1c-f20d-4cbf-8fca-2342db2db268.gif)
 ![동화](https://user-images.githubusercontent.com/57715672/190913326-51c98ceb-0336-478f-8802-919abba4e5c5.jpg)
 
+![인체그리기](https://user-images.githubusercontent.com/57715672/189699665-4d080163-87cf-4947-ab27-fa8f147926de.jpg)
+![미소녀가로](https://user-images.githubusercontent.com/57715672/190975441-f514d6a0-3329-441b-98e0-66433beac36a.jpg)
 ![미소녀f1](https://user-images.githubusercontent.com/57715672/190972879-82684002-0cd1-45aa-8f85-9670c2a6b1ab.jpg)
 ![미소녀f2](https://user-images.githubusercontent.com/57715672/190572414-37ae7691-ac20-47cc-b490-d2b11c32bb20.jpg)
 ![인체완성1](https://user-images.githubusercontent.com/57715672/189698377-07f59db4-4bde-4a23-ba0a-f0db667184aa.jpg)
@@ -9,4 +11,3 @@
 ![인체완성3 png](https://user-images.githubusercontent.com/57715672/189698408-0c99d187-f999-4dc7-bc5a-45cbce4717b3.jpg)
 ![인체완성4 png](https://user-images.githubusercontent.com/57715672/189698414-26666c85-21b0-410e-be23-ef38a0df3e54.jpg)
 ![인체완성5 png](https://user-images.githubusercontent.com/57715672/189698421-1c55e157-6988-4013-8e71-8b119e2cd468.jpg)
-![인체그리기](https://user-images.githubusercontent.com/57715672/189699665-4d080163-87cf-4947-ab27-fa8f147926de.jpg)
