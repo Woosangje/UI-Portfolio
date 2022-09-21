@@ -4,6 +4,7 @@
 ![원화첼리시아](https://user-images.githubusercontent.com/57715672/191210036-67f890ff-14c1-4f37-ad05-6892ae55701f.jpg)
 
 ![인체그리기](https://user-images.githubusercontent.com/57715672/189699665-4d080163-87cf-4947-ab27-fa8f147926de.jpg)
+![인체그리기2](https://user-images.githubusercontent.com/57715672/191523969-96b220aa-8031-401d-8f7e-ddcace1a92b0.jpg)
 ![미소녀가로](https://user-images.githubusercontent.com/57715672/190975441-f514d6a0-3329-441b-98e0-66433beac36a.jpg)
 ![미소녀f1](https://user-images.githubusercontent.com/57715672/190972879-82684002-0cd1-45aa-8f85-9670c2a6b1ab.jpg)
 ![미소녀f2](https://user-images.githubusercontent.com/57715672/190572414-37ae7691-ac20-47cc-b490-d2b11c32bb20.jpg)
