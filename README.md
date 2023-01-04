@@ -9,11 +9,10 @@
 ![img_포폴7](https://user-images.githubusercontent.com/57715672/210492664-221b7f3f-1fa0-409c-b58b-7738c544e97e.png)
 ![img_아터리기어](https://user-images.githubusercontent.com/57715672/210492690-085f0701-4e78-4e81-9e7f-7c212c90ab1a.png)
 ![img_아터리기어2](https://user-images.githubusercontent.com/57715672/210492698-5347f263-a167-4df6-82ba-9485bd59281f.jpg)
-![img_배너디자인1](https://user-images.githubusercontent.com/57715672/210492725-125faeab-8a4b-428d-b761-b1aa29ef667e.jpg)
-![img_배너디자인2](https://user-images.githubusercontent.com/57715672/210492730-f4f1bdaa-6864-4a6e-9182-068767b02167.jpg)
+
 
 배너 포트폴리오
-![img_서든어택배너](https://user-images.githubusercontent.com/57715672/210492732-05a0fcb4-c626-4c04-afc8-bab6d8527799.jpg)
+![img_배너디자인1](https://user-images.githubusercontent.com/57715672/210493471-d865b246-07f6-4dfb-9a46-60d7be9d9d30.jpg)
 ![img_포폴8](https://user-images.githubusercontent.com/57715672/210492739-1402cff9-f39b-4fa3-b612-d06e4d9f95d2.png)
 ![img_포폴9](https://user-images.githubusercontent.com/57715672/210492746-12d7dcab-0634-45a6-92f3-111050fda998.png)
 ![img_포폴10](https://user-images.githubusercontent.com/57715672/210492753-36baa149-1dcf-4530-9801-9e1ea3936d17.png)
