@@ -1,3 +1,9 @@
+배너 포트폴리오
+![img_배너디자인1](https://user-images.githubusercontent.com/57715672/210493471-d865b246-07f6-4dfb-9a46-60d7be9d9d30.jpg)
+![img_포폴8](https://user-images.githubusercontent.com/57715672/210492739-1402cff9-f39b-4fa3-b612-d06e4d9f95d2.png)
+![img_포폴9](https://user-images.githubusercontent.com/57715672/210492746-12d7dcab-0634-45a6-92f3-111050fda998.png)
+![img_포폴10](https://user-images.githubusercontent.com/57715672/210492753-36baa149-1dcf-4530-9801-9e1ea3936d17.png)
+
 
 게임 포트폴리오
 ![bg_리디자인_파티편성](https://user-images.githubusercontent.com/57715672/210492428-1bc7169b-65c3-4164-8571-a6cca4d2ad2b.jpg)
@@ -11,8 +17,4 @@
 ![img_아터리기어2](https://user-images.githubusercontent.com/57715672/210492698-5347f263-a167-4df6-82ba-9485bd59281f.jpg)
 
 
-배너 포트폴리오
-![img_배너디자인1](https://user-images.githubusercontent.com/57715672/210493471-d865b246-07f6-4dfb-9a46-60d7be9d9d30.jpg)
-![img_포폴8](https://user-images.githubusercontent.com/57715672/210492739-1402cff9-f39b-4fa3-b612-d06e4d9f95d2.png)
-![img_포폴9](https://user-images.githubusercontent.com/57715672/210492746-12d7dcab-0634-45a6-92f3-111050fda998.png)
-![img_포폴10](https://user-images.githubusercontent.com/57715672/210492753-36baa149-1dcf-4530-9801-9e1ea3936d17.png)
+
