@@ -4,7 +4,6 @@
 
 
 게임 포트폴리오
-![bg_리디자인_파티편성](https://user-images.githubusercontent.com/57715672/210492428-1bc7169b-65c3-4164-8571-a6cca4d2ad2b.jpg)
 ![img_포폴2](https://user-images.githubusercontent.com/57715672/210492623-47392b17-b7c6-4dba-9aa4-bab5ce55aa64.png)
 ![img_포폴3](https://user-images.githubusercontent.com/57715672/210492639-e089a5ee-7eaf-48d4-9201-33cea1015518.png)
 ![img_포폴5](https://user-images.githubusercontent.com/57715672/210492649-a873299b-cdf8-43e0-8cd0-e50dfbd3fc11.png)
