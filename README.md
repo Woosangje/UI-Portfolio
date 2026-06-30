@@ -12,4 +12,9 @@
 ![img_아터리기어2](https://user-images.githubusercontent.com/57715672/210492698-5347f263-a167-4df6-82ba-9485bd59281f.jpg)
 
 
+<img width="1920" height="1080" alt="20260610리니지포폴_인벤토리" src="https://github.com/user-attachments/assets/de53d286-43a5-4f15-a467-a7d44f46a636" />
+<img width="1920" height="1080" alt="20260531리니지포폴_퀘스트보상" src="https://github.com/user-attachments/assets/da863cac-f36b-403f-a57c-8d4ee7cb0121" />
+<img width="1920" height="1080" alt="20260501리니지포폴_메인화면v2 완성" src="https://github.com/user-attachments/assets/2c5d1e33-71c1-486d-be8f-5f85d7868f02" />
+<img width="1920" height="1080" alt="20260401리니지포폴_캐릭터생성 완성" src="https://github.com/user-attachments/assets/3f2743ac-2a7e-430b-9d98-e101af7b08ca" />
+<img width="1920" height="1080" alt="20260401리니지포폴_기본팝업 완성" src="https://github.com/user-attachments/assets/58c1b292-c0d0-4f4c-9b49-3265e021f724" />
 
